@@ -8,3 +8,5 @@ Instalation:
 3. Turn on your 3DS and open [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS/releases)
 4. Install theme named "walesa" and reboot your console
 5. **konstytucja theme** 
+
+![# Preview](https://i.ibb.co/Bqq72yd/preview.png)
